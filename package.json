@@ -1,0 +1,22 @@
+{
+  "name": "svelte-pwa",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.2",
+    "@tailwindcss/postcss": "^4.1.14",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "svelte": "^5.39.8",
+    "tailwindcss": "3",
+    "vite": "^7.1.9"
+  },
+  "dependencies": {
+    "lucide-svelte": "^0.544.0"
+  }
+}
